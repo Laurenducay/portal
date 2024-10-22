@@ -10,6 +10,7 @@ html {
     font-style: normal;
     font-variation-settings:
     "wdth" 100;
+    
 }
 
 ::selection {
@@ -44,7 +45,7 @@ h2,h3 {
 }
 
 a {
-    color:rgb(154, 126, 111);
+    color:rgb(219 157 157);
     text-decoration: none;
 }
 
