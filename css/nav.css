@@ -1,7 +1,7 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgb(212,190,228);
+    background-color: rgb(237, 232, 220);
     overflow: auto;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .topnav a.hover, .active {
-    background-color: rgb(155,126,189);
+    background-color: rgb(165, 182, 141);
 }
 
 .topnav .icon {
