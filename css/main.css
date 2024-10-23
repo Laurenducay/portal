@@ -45,7 +45,7 @@ h2,h3 {
 }
 
 a {
-    color:rgb(219 157 157);
+    color:rgb(219 157 157)!important;
     text-decoration: none;
 }
 
