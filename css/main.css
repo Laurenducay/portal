@@ -21,10 +21,10 @@ html {
 
 }
 body {
-    background-image: url('images/drawing1.jpg') !important;
+    background-image: url('../images/leaves.jpg') !important;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 h1 {
