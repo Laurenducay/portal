@@ -44,7 +44,12 @@ main.wrapper {
     overflow: auto;
     border-radius: 0px 0px 10px 10px;
 }
-
+.container {
+  display: flex;
+  justify-content: space-around; /* Spaces out the boxes evenly */
+  flex-wrap: wrap; /* Allows boxes to wrap onto the next line if there is not enough space */
+  padding: 20px;
+}
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
 }
